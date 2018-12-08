@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/jianbo/AllEclipseWorkSpqce/e3mall/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1101089044.index
+/e3-manager-web/src/main/java
+/Users/jianbo/AllEclipseWorkSpqce/e3mall/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1032975423.index
+/e3-manager-web/src/main/java
